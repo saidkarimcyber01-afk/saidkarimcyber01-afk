@@ -1,33 +1,38 @@
 <h1 align="center">Saidkarim Niyazov</h1>
+
 <p align="center">
-AI & Cybersecurity Builder • Startup-Oriented Engineer
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+%26+Cybersecurity+Builder;Startup-Oriented+Engineer;Building+Intelligent+Defense+Systems" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/samarkandstartup" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/samarkandstartup">
+    <img src="https://img.shields.io/badge/Telegram-Startup_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://t.me/saidkarim_asoschi_yoli" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram_Personal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/saidkarim_asoschi_yoli">
+    <img src="https://img.shields.io/badge/Telegram-Personal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/samarkandstartup" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram_Startup-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/samarkandstartup">
+    <img src="https://img.shields.io/badge/Instagram-Startup-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/saidkarim.niyazov" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram_Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/saidkarim.niyazov">
+    <img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saidkarimcyber01-afk&color=0A66C2&style=for-the-badge" />
 </p>
 
 ---
 
-## About
+## About Me
 
 AI-driven cybersecurity builder focused on intelligent defense systems, behavioral detection models, and startup-oriented product development.
 
-I design and build real-world experimental systems that combine artificial intelligence with security engineering.
+I design and build real-world experimental systems combining artificial intelligence with security engineering principles.
 
 ---
 
@@ -37,26 +42,39 @@ I design and build real-world experimental systems that combine artificial intel
 - Threat Detection Systems  
 - Network Security Research  
 - Startup MVP Architecture  
+- Scalable System Design  
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python  
-**Security:** Linux, Networking, Threat Analysis  
-**AI:** Machine Learning Foundations  
-**Tools:** Git, GitHub, VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,docker" />
+</p>
 
 ---
 
-## Selected Projects
+## GitHub Performance
 
-- AI-based security experimentation  
-- Network defense lab environments  
-- Early-stage startup MVP prototypes  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saidkarimcyber01-afk&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidkarimcyber01-afk&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## Vision
 
-Building intelligent systems that secure and strengthen digital ecosystems.
+Building intelligent systems that secure and strengthen digital ecosystems through applied artificial intelligence and security research.
+
+---
+
+## Selected Areas of Work
+
+- AI-based security experimentation  
+- Network defense lab environments  
+- Early-stage startup MVP prototypes  
+- Behavioral analytics research  
