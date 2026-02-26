@@ -1,51 +1,59 @@
-<h1 align="center">Saidkarim Niyazov</h1>
-<h3 align="center">Startup Ambassador @ Yoshlar Ventures | Cybersecurity & Systems Builder</h3>
+<!-- SAIDKARIM NIYAZOV – TECHNICAL FOUNDER IN PROGRESS -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Saidkarim%20Niyazov&fontSize=70&fontColor=00ffcc&animation=fadeIn&desc=Startup%20Ambassador%20%7C%20Cybersecurity%20%7C%20Systems%20Builder&descSize=22&descAlignY=70" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=Building+Systems.;Securing+Infrastructure.;Launching+Startups.;From+Uzbekistan+to+Global."/>
 </p>
 
 ---
 
-## 🚀 Positioning
+## 🧭 IDENTITY
 
-• Startup Ambassador at Yoshlar Ventures  
-• Building real-world systems in Cybersecurity & Infrastructure  
-• Learning by shipping, not consuming  
-• Future Technical Founder  
+```bash
+Name: Saidkarim Niyazov
+Age: 18
+Role: Startup Ambassador @ Yoshlar Ventures
+Mission: Become a Technical Founder
+Focus: Cybersecurity • Linux • Infrastructure
+```
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ TECH STACK
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,nginx" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,python,git,github,docker,nginx,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🔥 What I Build
+## 🏗 CURRENT BUILD ZONE
 
-🔐 Linux Hardening & Security Labs  
-🌐 Nginx + Docker Server Deployments  
-🧠 Networking Simulations  
-⚙️ System Administration Projects  
+- 🔐 Linux Hardening & Server Security
+- 🌐 Dockerized Infrastructure Deployments
+- 🧠 Networking Labs & System Architecture
+- 🚀 Startup Research & Execution Discipline
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 EXECUTION METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skniyazov&show_icons=true&theme=transparent&hide_border=true&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skniyazov&theme=transparent&hide_border=true&ring=00ffcc&fire=00ffcc&currStreakNum=ffffff" width="48%" />
 </p>
 
 ---
 
-## 🎯 Mission
+## 🎯 LONG TERM OBJECTIVE
 
-To build scalable startups by mastering infrastructure, security, and execution discipline.
+Build scalable, security-focused startups powered by strong infrastructure and disciplined execution.
+
+---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
