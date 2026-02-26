@@ -1,103 +1,105 @@
-<!-- SAIDKARIM NIYAZOV – NEON CYBER FOUNDER 🛡️🌌 -->
+<!-- SAIDKARIM NIYAZOV – NEON MATRIX CYBER FOUNDER 🛡️💾 -->
 
-<!-- ===== NEON MATRIX BANNER + GLITCH ===== -->
+<!-- ===== ULTIMATE NEON GLITCH BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=SAIDKARIM+NIYAZOV&fontSize=80&fontColor=00ff9d&animation=glitch&fontAlignY=40&desc=18YO+CYBER+EXPLORER+%7C+SCHOOL+21+%7C+FUTURE+CEO&descAlign=62&descAlignY=75&descSize=28&descColor=ff69b4" alt="Glitch Neon Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=320&section=header&text=SAIDKARIM+NIYAZOV&fontSize=90&fontColor=00ff9d&animation=glitch&fontAlignY=38&desc=18YO+CYBER+WARRIOR+%7C+SCHOOL+21+%7C+FUTURE+CEO&descAlign=62&descAlignY=78&descSize=30&descColor=ff69b4" alt="Ultimate Glitch Neon" />
 </p>
 
-<!-- ===== HACKER BANNER GIF (neon cyberpunk style) ===== -->
+<!-- ===== NEON HACKER BANNER + MATRIX RAIN VIBE ===== -->
 <p align="center">
-  <img src="https://i.ibb.co/k2j0KFt/neon-hacker-banner.gif" alt="Neon Hacker Matrix" width="100%" />
+  <img src="https://i.ibb.co/k2j0KFt/neon-hacker-banner.gif" alt="Neon Matrix Hacker" width="100%" />
 </p>
 
-<!-- ===== TYPING – MATRIX STYLE (Orbitron + neon cyan) ===== -->
+<!-- ===== MATRIX TYPING – CYBERPUNK ORBITRON ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3500&pause=800&color=00ff9d&center=true&vCenter=true&width=900&height=100&lines=SYSTEM+INITIALIZED...;Saidkarim+Niyazov;Cybersecurity+Enthusiast;Future+Startup+CEO;School+21+Warrior;P2P+Mentor+%26+Volunteer;Hack+the+Planet!+%F0%9F%9B%A1%EF%B8%8F" alt="Matrix Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=4000&pause=600&color=00ff9d&center=true&vCenter=true&width=1000&height=110&lines=ACCESSING+GRID...;Saidkarim+Niyazov;Cybersecurity+Enthusiast;Future+Startup+CEO;School+21+Elite;P2P+Mentor+%26+Volunteer;Hack+the+World!+%F0%9F%9B%A1%EF%B8%8F🔥" alt="Cyber Typing Overload" />
 </p>
 
-<!-- ===== SOCIAL BADGES – NEON CYBER STYLE ===== -->
+<!-- ===== NEON SOCIAL BADGES ===== -->
 <p align="center">
-  <a href="https://t.me/Saidkarimniyazov"><img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=00ff9d&colorA=0a0f1a&colorB=00ff9d" alt="Telegram"/></a>
-  <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378"><img src="https://img.shields.io/badge/LinkedIn-Ambassador-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00ff9d&colorA=0a0f1a&colorB=ff69b4" alt="LinkedIn"/></a>
-  <a href="https://github.com/SaidkarimNiyazov"><img src="https://img.shields.io/badge/GitHub-Hack-181717?style=for-the-badge&logo=github&logoColor=00ff9d&colorA=0a0f1a&colorB=ff3366" alt="GitHub"/></a>
+  <a href="https://t.me/Saidkarimniyazov"><img src="https://img.shields.io/badge/Telegram-Connect-Now?style=for-the-badge&logo=telegram&logoColor=000000&color=00ff9d" /></a>
+  <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378"><img src="https://img.shields.io/badge/LinkedIn-Ambassador?style=for-the-badge&logo=linkedin&logoColor=000000&color=ff69b4" /></a>
+  <a href="https://github.com/SaidkarimNiyazov"><img src="https://img.shields.io/badge/GitHub-Hack+Me?style=for-the-badge&logo=github&logoColor=000000&color=00F0FF" /></a>
 </p>
 
-<!-- ===== ABOUT – SHORT & IMPACTFUL ===== -->
-<h2 align="center">🛡️ ACCESS GRANTED – WHO AM I?</h2>
+<!-- ===== MATRIX RAIN ASCII – WOW EFFECT (text simulyatsiya) ===== -->
+<pre align="center">
+  <span style="color:#00ff9d; font-family: monospace;">
+   010101  CYBER  101010   GRID   110011   HACKED   001100
+   ██████  NEON   ██████  MATRIX  ██████  FOUNDER  ██████
+   11 00   SAIDKARIM   00 11   18YO   11 00   WOW    00 11
+  </span>
+</pre>
+
+<!-- ===== ABOUT – SHORT CYBER IMPACT ===== -->
+<h2 align="center">🛡️ SYSTEM BOOT: WHO AM I?</h2>
 <p align="center">
-  18 yosh, Samarqand/Toshkentdan chiqqan <b>cybersecurity</b> va <b>startup</b> yo'nalishidagi talaba.<br>
-  School 21'dagi real loyihalar + Yoshlar Ventures Ambassador + mentoring/volunteering.<br>
-  Maqsad: Real startup qurib, CEO bo'lish va global tech community'ni kuchaytirish.
+  18 yoshli Samarqand/Toshkent cyber explorer.<br>
+  School 21 real projects + Yoshlar Ventures Ambassador.<br>
+  Cybersecurity, ethical hacking, startup building — future CEO mode ON.
 </p>
 
-<!-- ===== VALUES – MATRIX STYLE BOX ===== -->
-<h2 align="center">🌟 CORE VALUES – SYSTEM DIRECTIVES</h2>
+<!-- ===== VALUES – PUNCHY BOX ===== -->
+<h2 align="center">🌟 CORE DIRECTIVES</h2>
 <p align="center">
-  <b>Leadership</b> • <b>Boldness</b> • <b>Love</b> • <b>Wisdom</b><br><br>
-  Har qarorim shu 4 ta direktivaga asoslanadi. Bold qadamlar bilan o'zgarish yarataman.
+  <b>Leadership</b> • <b>Boldness</b> • <b>Love</b> • <b>Wisdom</b><br>
+  Har commit, har pitch — shu 4 ta bilan dunyoni o'zgartiraman.
 </p>
 
-<!-- ===== TECH STACK – NEON ICONS + BADGES ===== -->
-<h2 align="center">🔥 CYBER ARSENAL</h2>
+<!-- ===== TECH ARSENAL – NEON ICONS ===== -->
+<h2 align="center">🔥 NEON ARSENAL</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,github,vscode,docker,cybersecurity,networking&perline=7&theme=dark" alt="Cyber Icons"/>
+  <img src="https://skillicons.dev/icons?i=c,linux,kali,bash,git,docker,vscode,cybersecurity,networking,python&perline=8&theme=dark" alt="Neon Cyber Icons"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00ff9d" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0a0f1a&colorB=00ff9d" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=ff69b4" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=00ff9d" />
-</p>
-
-<!-- ===== LEARNING + PROJECTS – COMPACT ===== -->
-<h2 align="center">📡 CURRENT MISSIONS & PROJECTS</h2>
+<!-- ===== LEARNING + PROJECTS ===== -->
+<h2 align="center">📡 ACTIVE MISSIONS</h2>
 <p align="center">
   <b>Learning:</b> Python • Nmap • Metasploit<br>
-  <b>Featured:</b> 
-  <a href="https://github.com/SaidkarimNiyazov/network-scanner">Network Scanner (Python + Nmap)</a> • 
-  <a href="https://github.com/SaidkarimNiyazov/secure-chat">Secure Chat (C + AES-256)</a>
+  <b>Projects:</b> 
+  <a href="https://github.com/SaidkarimNiyazov/network-scanner">Network Scanner</a> • 
+  <a href="https://github.com/SaidkarimNiyazov/secure-chat">AES-256 Secure Chat</a>
 </p>
 
-<!-- ===== CERTS + TROPHIES – MATRIX THEME ===== -->
-<h2 align="center">🏆 HACKER ACHIEVEMENTS</h2>
+<!-- ===== CERTS + TROPHIES – MATRIX ===== -->
+<h2 align="center">🏆 HACKER TROPHIES</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaidkarimNiyazov&theme=matrix&no-frame=true&margin-w=15&row=1&column=6" alt="Matrix Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaidkarimNiyazov&theme=matrix&no-frame=true&margin-w=15&row=1&column=7" alt="Matrix Trophies Glow"/>
 </p>
 <p align="center">
   TryHackMe Top 1% • HackTheBox Active • CompTIA Security+
 </p>
 
-<!-- ===== STATS – DRACULA + NEON CUSTOM ===== -->
-<h2 align="center">📊 SYSTEM METRICS – LIVE</h2>
+<!-- ===== STATS – DRACULA NEON OVERLOAD ===== -->
+<h2 align="center">📊 GRID METRICS – LIVE FEED</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f1a&title_color=00ff9d&text_color=ffffff&icon_color=ff69b4" width="48%" alt="Neon Stats"/>
-  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=dracula&hide_border=true&background=0a0f1a&stroke=00ff9d&ring=ff69b4&fire=00ff9d" width="48%" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f1a&title_color=00ff9d&text_color=ffffff&icon_color=ff69b4" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=dracula&hide_border=true&background=0a0f1a&stroke=00ff9d&ring=ff69b4&fire=00ff9d&currStreakNum=ffffff" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=dracula&hide_border=true&bg_color=0a0f1a&title_color=00ff9d&text_color=ffffff" width="65%" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=dracula&hide_border=true&bg_color=0a0f1a&title_color=00ff9d&text_color=ffffff" width="65%"/>
 </p>
 
-<!-- ===== NEON CYBER SNAKE – ULTIMATE WOW ===== -->
-<h2 align="center">🐍 NEON SNAKE – GRID HACKED</h2>
+<!-- ===== NEON CYBER SNAKE – FINAL WOW ===== -->
+<h2 align="center">🐍 NEON GRID SNAKE – DEVOURING COMMITS</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaidkarimNiyazov/SaidkarimNiyazov/output/neon-cyber-snake.svg" />
-    <img src="https://raw.githubusercontent.com/SaidkarimNiyazov/SaidkarimNiyazov/output/neon-cyber-snake.svg" alt="Neon Cyber Snake" width="90%"/>
+    <img src="https://raw.githubusercontent.com/SaidkarimNiyazov/SaidkarimNiyazov/output/neon-cyber-snake.svg" alt="Neon Cyber Snake Eating Grid" width="90%"/>
   </picture>
 </p>
 
-<!-- ===== VISITOR + CTA ===== -->
+<!-- ===== VISITOR COUNTER + CTA ===== -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SaidkarimNiyazov/count.svg?theme=dark" alt="Intruders Detected"/>
-  <br/><sub>INTRUSION LOG: Siz tizimga kirdingiz... Welcome, hacker! 👾</sub>
+  <img src="https://profile-counter.glitch.me/SaidkarimNiyazov/count.svg?theme=dark" alt="Hackers Detected"/>
+  <br/><sub>INTRUSION ALERT: Siz grid'ga kirdingiz... Welcome to the neon matrix! 👾</sub>
 </p>
 
 <p align="center">
-  <a href="https://t.me/Saidkarimniyazov">Telegram</a> yoki <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378">LinkedIn</a> orqali bog'laning – cybersecurity loyihalari, hackathonlar yoki mentorlik uchun tayyorman! 🔥
+  Cybersecurity loyihalari, hackathonlar, mentorlik yoki startup ideas uchun <a href="https://t.me/Saidkarimniyazov">Telegram</a> yoki <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378">LinkedIn</a> — let's hack the future together! 🔥🛡️
 </p>
 
-<!-- ===== FOOTER – THANKS NEON GIF ===== -->
+<!-- ===== THANKS FOOTER GIF ===== -->
 <p align="center">
-  <img src="https://i.ibb.co/1Jg6VwD/thanks-for-visiting-neon.gif" width="80%" alt="Thanks Neon"/>
+  <img src="https://i.ibb.co/1Jg6VwD/thanks-for-visiting-neon.gif" width="80%" alt="Neon Thanks Matrix"/>
 </p>
