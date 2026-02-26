@@ -1,0 +1,36 @@
+name: Generate GitHub Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'          # har kuni 00:00 UTC (Toshkent vaqti bilan ~05:00)
+  workflow_dispatch:             # istalgan paytda qo‘lda ishga tushirish mumkin
+  push:
+    branches: [ "main" ]         # main'ga push bo‘lganda ham (ixtiyoriy)
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write            # fayllarni output branch'ga push qilish uchun zarur
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: output              # output branch'dan boshlaymiz (agar yo‘q bo‘lsa keyin yaratiladi)
+
+      - name: Generate Snake animations
+        uses: Platane/snk@v3.4.1   # eng so‘nggi stabil versiya (2025-yil noyabr)
+        with:
+          github_user_name: skniyazov   # o‘zingizning username'ingiz
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push changes to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'dist/*.svg'
+          message: 'chore: update snake contribution animation [skip ci]'
+          branch: output
+          default_branch: output     # asosiy branch output bo‘ladi
