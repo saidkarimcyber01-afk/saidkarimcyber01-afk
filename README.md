@@ -33,7 +33,7 @@
 <!-- ABOUT – SHORT & PUNCHY -->
 <h2 align="center">🛡️ WHO AM I? – ACCESS LOG</h2>
 <p align="center">
-  18 yosh, Samarqand/Toshkentdan chiqqan cybersecurity enthusiast.<br>
+  18 yosh, Samarqand chiqqan cybersecurity enthusiast.<br>
   School 21 real projects + Yoshlar Ventures Ambassador + P2P mentoring/volunteering.<br>
   Maqsad: Real startup qurib CEO bo'lish va global techni secure qilish.
 </p>
